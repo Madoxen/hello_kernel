@@ -1,4 +1,5 @@
 obj-m += hello.o
+obj-m += hello2.o
 PWD := $(CURDIR)
 
 all:
